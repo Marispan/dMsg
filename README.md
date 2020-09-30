@@ -1,2 +1,3 @@
 # dMsg
 Sistema de Comunicação Instantânea
+Basic System of instant messaging justo for a few folks...

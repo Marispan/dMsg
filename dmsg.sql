@@ -102,7 +102,7 @@ CREATE TABLE `Usuarios` (
 
 LOCK TABLES `Usuarios` WRITE;
 /*!40000 ALTER TABLE `Usuarios` DISABLE KEYS */;
-INSERT INTO `Usuarios` VALUES (1,'William Maggi','maggi.william@gmail.com','a1b2c3d4','Will','2018-06-11 12:09:56',0),(2,'Administador','rsm@gmail.com','a1b2c3d4','Admin','2018-06-11 13:48:10',1),(3,'Moderador','HJA@XDC.com','a1b2c3d4','Moderador','2018-06-11 13:48:21',1),(4,'Inimigo 1','Inimigo@Amigo.com','aaa','Inimigo1','2018-06-12 13:49:35',2),(5,'Inimigo 2','Inimigo2@Amigo.com','aaa1','Inimigo2','2018-06-12 13:49:46',2),(6,'Inimigo 3','Inimigo3@Amigo.com','aaa1','Inimigo3','2018-06-12 13:49:56',2),(7,'Inimigo 4','Inimigo4@Amigo.com','aaa4','Inimigo4','2018-06-12 13:50:33',2),(10,'William Maggi','maggi.marispan@gmail.com','1234','','2018-06-15 17:20:24',2),(11,'XYz','x@y.z','1111','Xyzz','2018-07-26 10:27:58',2);
+INSERT INTO `Usuarios` VALUES (1,'William Maggi','maggi.william@gmail.com','1q2q3q4q','Will','2018-06-11 12:09:56',0),(2,'Administador','rsm@gmail.com','1q2q3q4q','Admin','2018-06-11 13:48:10',1),(3,'Moderador','HJA@XDC.com','1q2q3q4q','Moderador','2018-06-11 13:48:21',1),(4,'Inimigo 1','Inimigo@Amigo.com','aaa','Inimigo1','2018-06-12 13:49:35',2),(5,'Inimigo 2','Inimigo2@Amigo.com','aaa1','Inimigo2','2018-06-12 13:49:46',2),(6,'Inimigo 3','Inimigo3@Amigo.com','aaa1','Inimigo3','2018-06-12 13:49:56',2),(7,'Inimigo 4','Inimigo4@Amigo.com','aaa4','Inimigo4','2018-06-12 13:50:33',2),(10,'William Maggi','maggi.marispan@gmail.com','1234','','2018-06-15 17:20:24',2),(11,'XYz','x@y.z','1111','Xyzz','2018-07-26 10:27:58',2);
 /*!40000 ALTER TABLE `Usuarios` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
